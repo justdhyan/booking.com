@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# Booking.com – Find your next stay 🏨✨
 
-## Project info
+### Search deals on hotels, homes, and much more...  
+A modern reimagining of Booking.com built for the **Level Up Vibe Coding Hackathon**, featuring innovative tools to make your travel planning smarter, smoother, and more enjoyable.
 
-**URL**: https://lovable.dev/projects/1cd77030-96a1-4173-8543-bbb9cd8c6c5a
+> 📝 **Project Focus**: *Recreate and enhance Booking.com with new features for a next-level user experience.*
 
-## How can I edit this code?
+## 🔗 Live Preview 👇
 
-There are several ways of editing your application.
+🔵 [https://booking-com01.vercel.app/](https://booking-com01.vercel.app/)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1cd77030-96a1-4173-8543-bbb9cd8c6c5a) and start prompting.
+## 🚀 Features Added
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🌍 **Community-Driven Local Guides**  
+  Discover places through recommendations from fellow travelers.
 
-**Use your preferred IDE**
+- 🏠 **Augmented Reality (AR) Property Previews**  
+  Visualize rooms and amenities in your space before booking.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ☁️ **Weather Forecast Integration**  
+  Plan your stay with real-time weather updates for your destination.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 📦 **Packing List Generator**  
+  Get custom packing suggestions based on your trip details.
 
-Follow these steps:
+- 📔 **Travel Journal & Photo Sharing**  
+  Capture memories and share your travel story in-app.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🌙 **Dark Mode**  
+  Seamless browsing day or night.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- 💬 **Integrated Chat Support**  
+  Get live help while exploring or booking stays.
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1cd77030-96a1-4173-8543-bbb9cd8c6c5a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- ✅ **Verified Property Listings**  
+  Book with confidence through verified accommodations.

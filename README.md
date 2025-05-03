@@ -36,3 +36,6 @@ A modern reimagining of Booking.com built for the **Level Up Vibe Coding Hackath
 
 - ✅ **Verified Property Listings**  
   Book with confidence through verified accommodations.
+
+- ⬆️ **Scroll to Top Button**  
+  Added a convenient button at the bottom right to quickly scroll to the top of the page.

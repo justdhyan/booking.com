@@ -7,7 +7,7 @@ A modern reimagining of Booking.com built for the **Level Up Vibe Coding Hackath
 
 ## 🔗 Live Preview 👇
 
-🔴 [https://booking-com01.vercel.app/](https://booking-com01.vercel.app/)
+🔴 booking-com01.vercel.app
 
 ---
 
